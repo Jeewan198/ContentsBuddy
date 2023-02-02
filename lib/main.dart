@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_video/demo.dart';
+import 'demo.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();

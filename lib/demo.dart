@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_video/add_contact.dart';
-import 'package:flutter_video/contacts.dart';
-import 'package:/helper.dart';
+import 'add_contact.dart';
+import 'contacts.dart';
+import 'helper.dart';
 
 class Demo extends StatefulWidget {
   Demo({Key? key}) : super(key: key);
